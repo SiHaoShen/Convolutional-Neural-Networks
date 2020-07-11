@@ -1,6 +1,7 @@
 # Convolutional Neural Networks Project Notes
 
    * [Convolutional Neural Networks](#convolutional-neural-networks)
+	  * [Review of the whole Project and Course](#review-of-the-whole-project-and-course)
       * [Convolutional Neural Networks: Step by Step](#convolutional-neural-networks-step-by-step)
       * [Convolutional Neural Networks: Application](#convolutional-neural-networks-application)
       * [Keras tutorial - the Happy House](#keras-tutorial---the-happy-house)
@@ -8,9 +9,19 @@
       * [Art generation with Neural Style Transfer](#deep-learning--art-neural-style-transfer)
       * [Autonomous driving - Car detection](#autonomous-driving---car-detection)
 	  
-This repository is the summaries of the project Convolutional Neural Networks on on [DeepLearning.ai](https://deeplearning.ai) specialization courses.
+This repository is the summaries of the project Convolutional Neural Networks on [DeepLearning.ai](https://deeplearning.ai) specialization courses.
 
 ## Convolutional Neural Networks
+
+### Review of the whole Project and Course
+
+> This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
+>
+> You will:
+> - Understand how to build a convolutional neural network, including recent variations such as residual networks.
+> - Know how to apply convolutional networks to visual detection and recognition tasks.
+> - Know to use neural style transfer to generate art.
+> - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
 ### Convolutional Neural Networks: Step by Step
 
